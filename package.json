@@ -1,0 +1,12 @@
+{
+  "name": "hackerbay-challenge-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "@vernu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
